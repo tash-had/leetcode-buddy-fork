@@ -1,4 +1,6 @@
-# LeetCode Buddy
+# NOTE: Making this a standalone project. See mirrored repo [here](https://github.com/tash-had/leetcode-buddy)
+
+## LeetCode Buddy
 
 ### [Webstore Link](https://chrome.google.com/webstore/detail/leetcode-buddy/daeplkffffccbejlgacmhpebchpjbfjg) | [Landing Page Link](https://tash-had.github.io/leetcode-buddy/)
 
